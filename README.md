@@ -10,19 +10,19 @@
 
 ## 2021-02-03
 
-1. JAVA - Study overriding
+1. JAVA Study. overriding
 
    
 
-2. JAVA -Study overloading
+2. JAVA Study. overloading
 
 
 
-​	3. JAVA-Study super(), this() 
+ 3. JAVA Study. super(), this() 
 
+    
 
-
-	4. [Practice Client_UI](# 4. practice-client-ui)
+ 4. [JAVA Study. Practice client-UI](# practice-client-ui )
 
 
 
@@ -172,7 +172,7 @@
 
 
 
-## #4. Practice Client-UI
+## 4. # Practice Client-UI
 
 
 
