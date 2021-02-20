@@ -22,7 +22,17 @@
 
     
 
- 4. [JAVA Study. Practice client-UI](# practice-client-ui )
+ 4. [JAVA Study. Practice client-UI](# practice-client-ui)
+
+    
+
+ 5. [JAVA Study. Practice overriding](#practice overriding)
+
+    
+    
+ 6. JAVA Study. Practice SingleTone
+
+    
 
 
 
@@ -174,11 +184,15 @@
 
 ## 4. # Practice Client-UI
 
+- Object class의 하위 class인 
 
 
 
 
 
+## 5. #Practice overriding
+
+1. 도형을 클래스로 설정하고 
 
 
 
